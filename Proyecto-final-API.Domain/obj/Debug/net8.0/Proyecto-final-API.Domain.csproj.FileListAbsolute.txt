@@ -1,0 +1,5 @@
+C:\Users\acer\Documents\Programacion3\Proyecto-final-API-Miguel-Guerra-Jos-Soto\Proyecto-final-API.Domain\obj\Debug\net8.0\Proyecto-final-API.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Documents\Programacion3\Proyecto-final-API-Miguel-Guerra-Jos-Soto\Proyecto-final-API.Domain\obj\Debug\net8.0\Proyecto-final-API.Domain.AssemblyInfoInputs.cache
+C:\Users\acer\Documents\Programacion3\Proyecto-final-API-Miguel-Guerra-Jos-Soto\Proyecto-final-API.Domain\obj\Debug\net8.0\Proyecto-final-API.Domain.AssemblyInfo.cs
+C:\Users\acer\Documents\Programacion3\Proyecto-final-API-Miguel-Guerra-Jos-Soto\Proyecto-final-API.Domain\obj\Debug\net8.0\Proyecto-final-API.Domain.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\Programacion3\Proyecto-final-API-Miguel-Guerra-Jos-Soto\Proyecto-final-API.Domain\obj\Debug\net8.0\Proyecto-final-API.Domain.sourcelink.json
