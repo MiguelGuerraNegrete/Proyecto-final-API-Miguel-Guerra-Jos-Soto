@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto-final-API", "Proye
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto-final-API.Domain", "Proyecto-final-API.Domain\Proyecto-final-API.Domain.csproj", "{23CB73AE-6B0E-4943-BDCF-9114D14C3C00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto-final-API.Application", "Proyecto-final-API.Application\Proyecto-final-API.Application.csproj", "{FE2F4111-EC2D-46DB-B55F-963952650E45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{23CB73AE-6B0E-4943-BDCF-9114D14C3C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23CB73AE-6B0E-4943-BDCF-9114D14C3C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23CB73AE-6B0E-4943-BDCF-9114D14C3C00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE2F4111-EC2D-46DB-B55F-963952650E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2F4111-EC2D-46DB-B55F-963952650E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2F4111-EC2D-46DB-B55F-963952650E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2F4111-EC2D-46DB-B55F-963952650E45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
